@@ -14,7 +14,10 @@ This repo is fork of Unity NavMeshComponents enhanced with Extensions system for
 #### Demo [[github]](https://github.com/h8man/RedHotSweetPepper ).
 #### Discuss [[unityforum]](https://forum.unity.com/threads/2d-navmesh-pathfinding.503596/ ).
 
-# 2D NavMesh
+# 2D Navigation
+
+| ![](./Gizmos/NavMeshLink%20Icon.png) | ![](./Gizmos/NavMeshModifierVolume%20Icon.png) | ![](./Gizmos/NavMeshSurface%20Icon.png) | ![](./Gizmos/NavMeshLink%20Icon.png) | ![](./Gizmos/NavMeshModifierVolume%20Icon.png) | ![](./Gizmos/NavMeshSurface%20Icon.png) |
+|----------------|----------------|----------------|----------------|----------------|----------------|
 
 In repo you will find implementation of NavMeshSurface and 2d Extensions for tilemap, sprites and collider2d top down games.
 
